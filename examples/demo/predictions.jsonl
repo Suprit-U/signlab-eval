@@ -1,0 +1,9 @@
+{"image": "train_000.png", "detections": [{"class_id": 0, "bbox": [32.5, 48.3, 63.3, 79.0], "score": 0.91}, {"class_id": 2, "bbox": [10.0, 10.0, 40.0, 38.0], "score": 0.42}]}
+{"image": "train_001.png", "detections": []}
+{"image": "train_002.png", "detections": [{"class_id": 2, "bbox": [77.0, 86.8, 96.5, 104.4], "score": 0.77}]}
+{"image": "train_003.png", "detections": [{"class_id": 0, "bbox": [30.8, 50.0, 59.8, 79.1], "score": 0.7}]}
+{"image": "train_004.png", "detections": [{"class_id": 2, "bbox": [76.3, 89.6, 96.9, 102.7], "score": 0.63}]}
+{"image": "train_005.png", "detections": [{"class_id": 1, "bbox": [98.4, 37.5, 133.3, 60.6], "score": 0.56}]}
+{"image": "val_000.png", "detections": [{"class_id": 0, "bbox": [36.5, 47.7, 64.6, 80.3], "score": 0.91}, {"class_id": 2, "bbox": [10.0, 10.0, 40.0, 38.0], "score": 0.42}]}
+{"image": "val_001.png", "detections": []}
+{"image": "val_002.png", "detections": [{"class_id": 2, "bbox": [74.7, 85.3, 98.1, 106.3], "score": 0.77}]}
